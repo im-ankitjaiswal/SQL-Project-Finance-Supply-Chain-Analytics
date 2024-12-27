@@ -1,2 +1,2 @@
-# SQL-Project-Finance-Supply-Chain-Analytics
+# SQL Project Finance Supply Chain Analytics
 FINANCE AND SUPPLY CHAIN ANALYTICS OF ATLIQ HARDWARES
